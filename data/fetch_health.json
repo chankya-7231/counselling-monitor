@@ -1,8 +1,1 @@
-{
-  "https://mcc.nic.in/eservices-schedule-ug/": {
-    "consecutive_failures": 1,
-    "alerted": false,
-    "last_error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "last_checked_at": "2026-09-19T06:08:36.332084+05:30"
-  }
-}
+{}
