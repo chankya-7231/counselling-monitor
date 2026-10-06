@@ -5,6 +5,7 @@
     "http://www.linkedin.com/sharing/share-offsite/?url=https://mcc.nic.in/important-link-ug/&mini=true",
     "http://www.nic.in/",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.nic.in",
@@ -33,7 +34,8 @@
     "https://x.com/share?url=https://mcc.nic.in/important-link-ug/&via=TWITTER_HANDLE&text=Important+Link+UG"
   ],
   "pdfs": [
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf"
   ],
   "text_chunks": [
     ", Government of India",
@@ -43,6 +45,7 @@
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Developed and hosted by",
     "Important Link UG | Medical Counselling Committee (MCC) | India",
+    "List Of Medical Assessment Board",
     "MCC NEET UG Counselling 2026",
     "Medical Counselling Committee (MCC)",
     "Ministry of Electronics & Information Technology",
@@ -53,13 +56,14 @@
     "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u0930\u093e\u092e\u0930\u094d\u0936 \u0938\u092e\u093f\u0924\u093f",
     "\u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u090f\u0935\u0902 \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f"
   ],
-  "checked_at": "2026-10-06T14:35:58.860941+05:30",
+  "checked_at": "2026-10-06T21:31:18.450680+05:30",
   "known_links": [
     "http://meity.gov.in/",
     "http://www.digitalindia.gov.in/",
     "http://www.linkedin.com/sharing/share-offsite/?url=https://mcc.nic.in/important-link-ug/&mini=true",
     "http://www.nic.in/",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.nic.in",
@@ -88,7 +92,8 @@
     "https://x.com/share?url=https://mcc.nic.in/important-link-ug/&via=TWITTER_HANDLE&text=Important+Link+UG"
   ],
   "known_pdfs": [
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
@@ -98,6 +103,7 @@
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Developed and hosted by",
     "Important Link UG | Medical Counselling Committee (MCC) | India",
+    "List Of Medical Assessment Board",
     "MCC NEET UG Counselling 2026",
     "Medical Counselling Committee (MCC)",
     "Ministry of Electronics & Information Technology",
