@@ -13,7 +13,6 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260820667831297.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260823414136482.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202609021737158592.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/2026091226099004.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260912351980769.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609131686896352.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
@@ -26,6 +25,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260927261931081.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -65,7 +65,6 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260820667831297.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260823414136482.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202609021737158592.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/2026091226099004.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260912351980769.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609131686896352.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
@@ -77,7 +76,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260925310985535.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260927261931081.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf"
   ],
   "text_chunks": [
     ", Government of India",
@@ -104,8 +104,8 @@
     "New Registration for UG Counselling 2026",
     "Notice for Round 2 Float Resign",
     "Notice for resignation of Freeze and Float candidates of Round 1 and Round 2",
-    "Notice for resignation of freeze candidates of Round 1 dated 12.09.2026",
     "Notice for verification of documents for Round 2",
+    "Notice for weeding out of candidates 2026",
     "Online Under Graduate Medical / Dental Seats Online Allotment process (Online Counseling)",
     "Participating Institute Details NEET UG 2026",
     "Revised AIQ and State Schedule for Round 1 of UG Cousenlling 2026 dated 19.08.2026",
@@ -120,7 +120,7 @@
     "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u0930\u093e\u092e\u0930\u094d\u0936 \u0938\u092e\u093f\u0924\u093f",
     "\u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u090f\u0935\u0902 \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f"
   ],
-  "checked_at": "2026-10-10T07:25:51.340083+05:30",
+  "checked_at": "2026-10-10T13:37:10.607640+05:30",
   "known_links": [
     "http://collabcad.gov.in/",
     "http://ecounselling.nic.in/",
@@ -183,6 +183,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609301921036379.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -270,7 +271,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609301551581216.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609301921036379.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
@@ -316,6 +318,7 @@
     "Notice for resignation of Round 1 dated 31.08.2026",
     "Notice for resignation of freeze candidates of Round 1 dated 12.09.2026",
     "Notice for verification of documents for Round 2",
+    "Notice for weeding out of candidates 2026",
     "Notice regarding uploading of documents for Float candidates of Round 1",
     "Online Under Graduate Medical / Dental Seats Online Allotment process (Online Counseling)",
     "Participating Institute Details NEET UG 2026",
