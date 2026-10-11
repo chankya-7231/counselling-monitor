@@ -13,7 +13,6 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260820667831297.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260823414136482.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202609021737158592.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260912351980769.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609131686896352.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609151605377053.pdf",
@@ -26,6 +25,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610101929874945.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -65,7 +65,6 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260820667831297.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260823414136482.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202609021737158592.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260912351980769.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609131686896352.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609151605377053.pdf",
@@ -77,10 +76,12 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260927261931081.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610101929874945.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610101929874945.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf"
   ],
   "text_chunks": [
     ", Government of India",
+    "ADMITTED/JOINED CANDIATES UPTO ROUND 3 UG COUNSELING 2026",
     "AIQ and State Schedule Round 2 UG 2026 dated 02.09.2026",
     "AIQ and State Schedule Round 2_3_4_14.09.2026",
     "Admission and eCounselling Services for Session 2026",
@@ -92,7 +93,6 @@
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Developed and hosted by",
     "Final Allotment result for UG Round 3 Counselling.",
-    "Final Result UG Round 2 Counselling 2026 dated 12.09.2026",
     "List Of Medical Assessment Board",
     "MCC NEET UG Counselling 2026",
     "Medical Counselling Committee (MCC)",
@@ -120,7 +120,7 @@
     "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u0930\u093e\u092e\u0930\u094d\u0936 \u0938\u092e\u093f\u0924\u093f",
     "\u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u090f\u0935\u0902 \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0932\u094d\u092f\u093e\u0923 \u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f"
   ],
-  "checked_at": "2026-10-11T06:33:00.626339+05:30",
+  "checked_at": "2026-10-11T12:48:15.975456+05:30",
   "known_links": [
     "http://collabcad.gov.in/",
     "http://ecounselling.nic.in/",
@@ -185,6 +185,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610101929874945.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -274,10 +275,12 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610051847554726.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610101929874945.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261010582288454.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
+    "ADMITTED/JOINED CANDIATES UPTO ROUND 3 UG COUNSELING 2026",
     "AIQ and State Schedule Round 2 UG 2026 dated 02.09.2026",
     "AIQ and State Schedule Round 2 UG 2026 dated 27.08.2026",
     "AIQ and State Schedule Round 2_3_4_14.09.2026",
