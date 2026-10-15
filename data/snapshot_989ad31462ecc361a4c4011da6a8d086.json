@@ -4,7 +4,6 @@
     "http://www.digitalindia.gov.in/",
     "http://www.linkedin.com/sharing/share-offsite/?url=https://mcc.nic.in/current-events-ug/&mini=true",
     "http://www.nic.in/",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608071226580477.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824606525705.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609031954399379.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609032106684396.pdf",
@@ -16,6 +15,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151192074765.pdf",
     "https://india.gov.in/",
     "https://mcc.nic.in",
     "https://mcc.nic.in/",
@@ -42,7 +42,6 @@
     "https://x.com/share?url=https://mcc.nic.in/current-events-ug/&via=TWITTER_HANDLE&text=Current+Events+UG"
   ],
   "pdfs": [
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608071226580477.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824606525705.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609031954399379.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609032106684396.pdf",
@@ -53,7 +52,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260925310985535.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151192074765.pdf"
   ],
   "text_chunks": [
     ", Government of India",
@@ -62,6 +62,7 @@
     "Admission and eCounselling Services for Session 2026",
     "CLEAR VACANCY ROUND 2 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
+    "CLEAR VACANCY STRAY VACANCY ROUND (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Current Events UG | Medical Counselling Committee (MCC) | India",
     "Developed and hosted by",
@@ -76,12 +77,11 @@
     "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) \u2013 UG COUNSELLING 2026",
     "NOTICE FOR NOT REPORTED CANDIATES ROUND 3 UG 2026",
     "National Informatics Centre",
-    "Seat Matrix NEET UG MBBS BDS & BSc Nursing Round 1",
     "Share on X (formerly Twitter)",
     "VIRTUAL VACANCY ROUND 2 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "VIRTUAL VACANCY ROUND 3 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026"
   ],
-  "checked_at": "2026-10-15T11:02:01.267292+05:30",
+  "checked_at": "2026-10-15T15:47:51.001028+05:30",
   "known_links": [
     "http://meity.gov.in/",
     "http://www.digitalindia.gov.in/",
@@ -111,6 +111,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151192074765.pdf",
     "https://india.gov.in/",
     "https://mcc.nic.in",
     "https://mcc.nic.in/",
@@ -160,7 +161,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609301921036379.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610151192074765.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
@@ -169,6 +171,7 @@
     "Admission and eCounselling Services for Session 2026",
     "CLEAR VACANCY ROUND 2 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
+    "CLEAR VACANCY STRAY VACANCY ROUND (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Current Events UG | Medical Counselling Committee (MCC) | India",
     "Developed and hosted by",
