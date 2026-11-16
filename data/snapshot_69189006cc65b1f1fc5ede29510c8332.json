@@ -10,7 +10,6 @@
     "https://admissions.nic.in/",
     "https://aishe.gov.in/",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609151605377053.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260918726374935.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260927261931081.pdf",
@@ -26,6 +25,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102860443934.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611041824117899.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261116175397022.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -65,7 +65,6 @@
   ],
   "pdfs": [
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608061435575744.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260915112025817.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609151605377053.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260918726374935.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260927261931081.pdf",
@@ -80,11 +79,11 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102817404741.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102860443934.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611041824117899.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261116175397022.pdf"
   ],
   "text_chunks": [
     ", Government of India",
-    "AIQ and State Schedule Round 2, 3 & Stray Vacancy 14.09.2026",
     "Admission and eCounselling Services for Session 2026",
     "Advisory regarding Fake Notice",
     "All the NEET Under Graduate (MBBS/BDS) aspirant candidates are hereby informed that counseling for All India Quota seats/ Institutional Quota/ Domicile (internal candidates) of Central Universities (Aligarh Muslim University/ Banaras Hindu University/ University of Delhi/Faculty of Dentistry, Jamia Millia Islamia, Delhi), (wards of ESIC insured persons) seats of colleges under Employee State Insurance Corporation and Armed Forces Medical College, Pune for the Under graduate session 2023-24 will be conducted by Medical Counseling Committee/ Directorate General of Health Services, Ministry of Health and Family Welfare, Government of India.",
@@ -113,6 +112,7 @@
     "Participating Institute Details NEET UG 2026",
     "Registration and choice filling for special stray round is available now, kindly refer to the schedule for details.",
     "Reporting of stray round candidates is available up to 02:00 PM 27.10.2026 as some of the institutes have not completed the admission formalities due to technical issues.",
+    "Round 6 schedule for State for BDS and B. Sc Nursing courses dated 16.11.2026",
     "SPECIAL STRAY VACANCY ROUND FOR MBBS AND 5TH ROUND OF BDS/B.S.C NURSING 2026",
     "Share on X (formerly Twitter)",
     "Special Round Schedule for State 2026 dated 02.11.2026",
@@ -120,7 +120,7 @@
     "UG Medical Counselling",
     "UG Medical Counselling | Medical Counselling Committee (MCC) | India"
   ],
-  "checked_at": "2026-11-16T12:46:49.650853+05:30",
+  "checked_at": "2026-11-16T22:39:00.023485+05:30",
   "known_links": [
     "http://collabcad.gov.in/",
     "http://ecounselling.nic.in/",
@@ -202,6 +202,7 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051933682618.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051976570973.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261116175397022.pdf",
     "https://india.gov.in/",
     "https://mcc.admissions.nic.in/Applicant/Report/ViewInstituteProfileDynamic.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
     "https://mcc.admissions.nic.in/Applicant/Root/Home.aspx?enc=b3y6S6rqn323+Rrps4aJmWq6uDzwcVyR2D994Iqx3miWKIwOHdAUl7I6zs1LI/bNHBuognKMJMYf4wgTJSa4VQ==",
@@ -311,7 +312,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611041824117899.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051933682618.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051976570973.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261116175397022.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
@@ -390,6 +392,7 @@
     "Revised AIQ and State Schedule for Round 1 of UG Cousenlling 2026 dated 19.08.2026",
     "Revised Provisional Result UG Round 2 Counselling 2026 dated 12.09.2026",
     "Revised UG Counselling 2026 Information Bulletin dated 20.08.2026",
+    "Round 6 schedule for State for BDS and B. Sc Nursing courses dated 16.11.2026",
     "SPECIAL STRAY VACANCY ROUND FOR MBBS AND 5TH ROUND OF BDS/B.S.C NURSING 2026",
     "Seat Matrix NEET UG MBBS BDS & BSc Nursing Round 1",
     "Share on X (formerly Twitter)",
