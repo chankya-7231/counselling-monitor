@@ -4,8 +4,6 @@
     "http://www.linkedin.com/sharing/share-offsite/?url=https://mcc.nic.in/current-events-ug/&mini=true",
     "http://www.nic.in/",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609241056073871.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609251768661500.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260925310985535.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
@@ -15,6 +13,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102817404741.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611191346150348.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261119492496041.pdf",
     "https://india.gov.in/",
     "https://mcc.nic.in",
     "https://mcc.nic.in/",
@@ -43,8 +43,6 @@
   ],
   "pdfs": [
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609241056073871.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609251768661500.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260925310985535.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
@@ -53,7 +51,9 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611021519458016.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102817404741.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611191346150348.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261119492496041.pdf"
   ],
   "text_chunks": [
     ", Government of India",
@@ -61,7 +61,6 @@
     "Accessible Version :",
     "Admission and eCounselling Services for Session 2026",
     "CLEAR VACANCY 6TH ROUND FOR BDS/B.SC (NURSING) SEATS UG 2026",
-    "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "CLEAR VACANCY STRAY VACANCY ROUND (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026",
     "Content Owned and Managed by Medical Counselling Committee (MCC)",
     "Current Events UG | Medical Counselling Committee (MCC) | India",
@@ -76,12 +75,13 @@
     "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) \u2013 UG COUNSELLING 2026",
     "NOTICE FOR ADDITION OF SEATS IN SPECIAL ROUND UG 2026",
     "NOTICE FOR NOT REPORTED CANDIATES ROUND 3 UG 2026",
+    "NOTICE FOR PROVISIONAL ALLOTMENT RESULT OF NEET UG ROUND -6 2026",
     "National Informatics Centre",
+    "PROVISIONAL ALLOTMENT RESULT FOR UG 6TH ROUND 2026",
     "SPECIAL STRAY VACANCY ROUND FOR MBBS AND 5TH ROUND OF BDS/B.S.C NURSING 2026",
-    "Share on X (formerly Twitter)",
-    "VIRTUAL VACANCY ROUND 3 (MBBS BDS B.SC NURSING) \u2013 UG COUNSELLING 2026"
+    "Share on X (formerly Twitter)"
   ],
-  "checked_at": "2026-11-19T10:01:06.165308+05:30",
+  "checked_at": "2026-11-19T19:24:30.830700+05:30",
   "known_links": [
     "http://meity.gov.in/",
     "http://www.digitalindia.gov.in/",
@@ -120,6 +120,8 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051976570973.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611191346150348.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261119492496041.pdf",
     "https://india.gov.in/",
     "https://mcc.nic.in",
     "https://mcc.nic.in/",
@@ -179,7 +181,9 @@
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051933682618.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051976570973.pdf",
     "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261106180438958.pdf",
-    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf"
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611191346150348.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261119492496041.pdf"
   ],
   "known_text_chunks": [
     ", Government of India",
@@ -206,11 +210,13 @@
     "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) \u2013 UG COUNSELLING 2026",
     "NOTICE FOR ADDITION OF SEATS IN SPECIAL ROUND UG 2026",
     "NOTICE FOR NOT REPORTED CANDIATES ROUND 3 UG 2026",
+    "NOTICE FOR PROVISIONAL ALLOTMENT RESULT OF NEET UG ROUND -6 2026",
     "National Informatics Centre",
     "Notice for Provisional Result UG Round 2 Counselling 2026",
     "Notice for Provisional Result for Round 3 of UG Counselling 2026",
     "Notice for Provisional Result for UG Counselling Special stray vacancy Round for MBBS and 5th round of BDS/B.Sc nursing 2026",
     "Notice for Revised Provisional Result UG Round 2 Counselling 2026 dated 12.09.2026",
+    "PROVISIONAL ALLOTMENT RESULT FOR UG 6TH ROUND 2026",
     "Provisional Result for Round 3 of UG Counselling 2026",
     "Provisional Result for Stray Vacancy Round",
     "Provisional Result for UG Counselling Special stray vacancy Round for MBBS and 5th round of BDS/B.Sc nursing 2026",
